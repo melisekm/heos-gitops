@@ -9,4 +9,7 @@ commonLabels:
   app.kubernetes.io/part-of: wac-hospital
 
 resources:
-- ../../../apps/xmelisek-ambulance-ufe
+  - ../../../apps/xmelisek-ambulance-ufe
+
+components:
+  - ../../../components/version-developers
