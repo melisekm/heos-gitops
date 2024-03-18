@@ -7,7 +7,7 @@ spec:
                      # module web komponentu pre tento mikroFE
                      # - umiestnený v namespace wac-hospital
   navigation:
-    - element: xmelisek-ambulance-order-list    # element, ktorý bude vložený na stránku
+    - element: xmelisek-ambulance-order-app    # element, ktorý bude vložený na stránku
                                     # pri navigácii na zoznam čakajúcich
       path: xmelisek-ambulance-heos      # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
       title: MelisekM - Hospital equipment order system    # názov mikro aplikácie
